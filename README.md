@@ -10,12 +10,13 @@
  
  ## Project implementation
  Project repository contains the following directories:
-	* data: data directory
-	* model: directory which contains model file
-	* code: directory which contains Jupiter notebook with Python code
+	*data: data directory,
+	*model: directory which contains model file,
+	*code: directory which contains Jupiter notebook with Python code.
 
 Data stored in SCV format.
 Model created in Keras with TensorFlow.
+Python code contains the parts for training and validation data sets preparation, model creation, model train and valudation.
 
 ## Project usage
 Jupiter notebook contains all necessary code to install all the required software.
