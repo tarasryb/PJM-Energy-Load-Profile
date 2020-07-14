@@ -5,7 +5,7 @@
  ## Project purpose
  The purpose of this project is to solve load profile classification task.
  Load profile term is related to loads in energy grid. Profile is 24 values of energy load related to each hour of the day.
- Winter and summer hourly load profiles are quite different. At winter we can see morning and evening load peaks caused by electric lightning systems. At summer we can see middle-of-the-day peaks caused by air conditioners. Fall load profile may look different: sometimet it is similar to summer profile, sometimes - to winter, it dependins on weather.
+ Winter and summer hourly load profiles are quite different. At winter we can see morning and evening load peaks caused by electric lightning systems. At summer we can see middle-of-the-day peaks caused by air conditioners. Fall load profile may look different: sometimes it is similar to summer profile, sometimes - to winter, it dependns on weather.
  The task solved in this project is to build and train a neural network that can distinguish different load profiles from one another and identify abnormal ones among ordinary profiles.
  
  ## Project implementation
